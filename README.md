@@ -1,4 +1,4 @@
-# ldr-solar-tracker
+# solar-tracker
 A system designed to boost the efficiency of a solar panel by dynamically adjusting its position to directly face the sun.
 
 This is achieved using a servo-controlled frame and two Light Dependent Resistors (LDRs) connected to a microcontroller (in this case, an Arduino UNO) act as the system's "eyes."
