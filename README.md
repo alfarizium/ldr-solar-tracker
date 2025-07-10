@@ -39,6 +39,10 @@ Demonstration video:
 
 https://github.com/user-attachments/assets/40cd0aad-698d-495a-8ab4-92e44d982ad4
 
+Photos:
 
+![1751643593199](https://github.com/user-attachments/assets/ecf51c78-b388-4cdf-9e4a-df753a64d79f)
+
+![1751643593239](https://github.com/user-attachments/assets/3546e30a-dac9-4a7e-80a3-329e075533e4)
 
 
