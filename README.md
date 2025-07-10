@@ -1,4 +1,4 @@
-# solar-light-seeker
+# ldr-solar-tracker
 Dynamic solar panel positioning using Light Dependent Resistor (LDR) for increasing efficiency.
 
 This project details a system designed to boost the efficiency of a solar panel by dynamically adjusting its position to directly face the sun. This is achieved using a servo-controlled frame and two Light Dependent Resistors (LDRs) that act as the system's "eyes."
