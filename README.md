@@ -6,7 +6,7 @@ This is achieved using a servo-controlled frame and two Light Dependent Resistor
 <details open>
 <summary>Demonstration video</summary>
 
-https://github.com/user-attachments/assets/0301d07b-67ce-4125-b335-cd1920429116
+https://github.com/user-attachments/assets/e3e64b1b-17e7-4e2d-9097-7188e59138ad
 
 </details>
 
