@@ -31,20 +31,19 @@ Parts:
 | 6      | LED (for indicating where the serve runs, left or right) | 2                   |
 | 7      | Jumper cables                                            | As much as you need |
 
-<details open>
-<summary>Demonstration video</summary>
-https://github.com/user-attachments/assets/40cd0aad-698d-495a-8ab4-92e44d982ad4
-</details>
+Demonstration video
+https://github.com/user-attachments/assets/79f44226-8f0d-4586-8324-690498021bfd
 
-<details>
+<details open>
 <summary>Tinkercad diagram</summary>
 <img width="1192" height="572" alt="image" src="https://github.com/user-attachments/assets/d4fe415a-a90c-4d2e-9854-5433485f1c8e" />
 </details>
 
-<details>
+<details open>
 <summary>Photos</summary>
-![1751643593199](https://github.com/user-attachments/assets/ecf51c78-b388-4cdf-9e4a-df753a64d79f)
-![1751643593239](https://github.com/user-attachments/assets/3546e30a-dac9-4a7e-80a3-329e075533e4)
+<img alt="image" src="https://github.com/user-attachments/assets/ecf51c78-b388-4cdf-9e4a-df753a64d79f" />
+<img alt="image" src="https://github.com/user-attachments/assets/3546e30a-dac9-4a7e-80a3-329e075533e4" />
 </details>
+
 
 
