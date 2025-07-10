@@ -34,7 +34,7 @@ Parts:
 <details open>
 <summary>Demonstration video</summary>
 
-https://github.com/user-attachments/assets/6033996a-cd21-49e2-b46d-a8c9090b7a93
+https://github.com/user-attachments/assets/0301d07b-67ce-4125-b335-cd1920429116
 
 </details>
 
