@@ -27,7 +27,7 @@ Parts:
 
 Tinkercad diagram:
 
-![solar-light-seeker-tinkercad](https://github.com/alfarizium/solar-light-seeker/blob/main/solar-light-seeker-tinkercad.png)
+<img width="1192" height="572" alt="image" src="https://github.com/user-attachments/assets/d4fe415a-a90c-4d2e-9854-5433485f1c8e" />
 
 Demonstration video:
 
