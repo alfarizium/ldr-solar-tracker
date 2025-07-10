@@ -5,7 +5,7 @@ This project details a system designed to boost the efficiency of a solar panel 
 
 ## How To Use
 1. Download the arduino-file.ino in the releases tab.
-2. Connect your Arduino to your PC and to the Arduino IDE
+2. Connect your Arduino UNO to your PC and to the Arduino IDE
 3. Open the arduino-file.ino with the Arduino IDE
 4. Compile it!
 
