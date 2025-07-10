@@ -3,6 +3,12 @@ Dynamic solar panel positioning using Light Dependent Resistor (LDR) for increas
 
 This project details a system designed to boost the efficiency of a solar panel by dynamically adjusting its position to directly face the sun. This is achieved using a servo-controlled frame and two Light Dependent Resistors (LDRs) that act as the system's "eyes."
 
+## How To Use
+1. Download the arduino-file.ino in the releases tab.
+2. Connect your Arduino to your PC and to the Arduino IDE
+3. Open the arduino-file.ino with the Arduino IDE
+4. Compile it!
+
 ## How It Works
 The core principle is simple: keep the solar panel pointed at the brightest light source.
 
